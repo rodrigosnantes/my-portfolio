@@ -1,19 +1,6 @@
-<p align="center">
-  <img src="https://www.pngfind.com/pngs/m/220-2207701_png-file-portfolio-icon-png-transparent-png.png" width="200" />
-</p>
-
 <h1 align="center">
 	Meu Portifólio
 </h1>
 
 Esse projeto foi desenvolvido utiliznado o ecossistemas react.
-
-## Layout
-![enter image description here](https://previews.dropbox.com/p/thumb/ABE3AJlOYYivxeyuvDby_gCXjASK8DFEMx556V0PLRdeLKZLadj9jNh-0NVBR2eGfom5jVb3mQEojlWUmmfDxwVUjgvSvxuCOl1Zqa_B5-kU3caxuhKxxxUnjX-_fZaf1ncN4NZ6iGlIThFYa3nOYg8zukYX3g94MbLb2LMEUWi0HHpBpsXYM2YP65Vj_3mVWp8zsWhtSoH8ethGdJ-vh8-O-4mKaRdYSlYLb-VgwR5pWY8t01DBDzFIditzddTyDQGXJ6G9Izd-2O5D0EorL8CeYcd6wyWTnZeZXAtrvzUVOuOmMOzoUVJfLTXx_e5Bq-R3fODE4E43Dz-3Jnz6kaxGOY9YYHVUZ6uhNuR4VVUkSA/p.png?fv_content=true&size_mode=5)
-
-![enter image description here](https://previews.dropbox.com/p/thumb/ABF5n8VufHTo_IVvbqPull2Mid77l9A9eqj3A8xODiGSMKyn31VeuV1s7qAagfJ2bgNaRBRHdN4liPdNI0eSq-bgddJYaAqSyWxYfigtyLAr1LVVgXtohDdG_ZD1u-y7Jxs40qBQFjKjcaTZ8yJtB-hesA3FZluX9IL76_E-ZL-6VA8cVxSD5a2sz6lJ8OjzJHFgEt9Lt1Doi5GegYZXXtn7wOSLac-PHj6EUEXWg1zzr5I5M3IhxaqB-1DxjJGKo8LFuGHiIY3mSgA7OYe2PD7r2mLKqywY8iMYzv-scj0vJ8AZ96IpgUV32ZJpaBL5-MlinNqhoM5m90AyWP2HZmwgBkuULZ5mtfulTIl-_Ow10w/p.png?size=1600x1200&size_mode=3)
-
-![enter image description here](https://previews.dropbox.com/p/thumb/ABFXqfqX_xTixTv-dsFfdWvwi_7rgD6Nys4yDatvGqJCapTwWZZBsookuAK9LqOUn-kgiHnXaRym5UQWZ425ZEzw-oGtOHyJO7ITiqiHn9Jopnmx5dVPyurY5ucO04tJFbCouUFZhyWcsSgyjryqsZBVrPjViB8Ufcdv1n_JQKpQyaHuIuFaJjHeqZEVSDKbxefcz7zbrhzo3Z4IdMt1Nwa0uLpxZ_VD9T2r4JBzIkCGNGa2ac_NCaTeH1vUB-epMUUTi6G1ynSBpdeGbQu30HDR08TTGjnQpmqVvg1TaY2CXegbDYTLDMFCuytf2O4It2OeKENO1Jbs6b3JdwLKm7IvhsWQ5kh8FA69-4AFY5tyFg/p.png?fv_content=true&size_mode=5)
-
-![enter image description here](https://previews.dropbox.com/p/thumb/ABHaBSo_c3Ln3yl5T-r6SYl6gUrIbs9VhUSh-oecT5yx6twuoMeru5e0-52JKNKL8U-eG9rvwz4kdtn-mbZV6p5rCHBLDbvsM0zqdRixXN4I0BBLy-qLLLXOHHEA7aulTmVBciHwYqR078oXgx7JajoLCosjlhauIZjhWQ6fbIERqgcHuS62xG0_UfXizz1_IeutG-Ae2AJ4u9yWSaH5IX4hP7SG939X4rwu9rJiffs2fpswoCb8Eov2gc8XSGAbBHMp3kneonwCDfSbG_EbCb4KKH8DRyOBoi9hgpz-CZKjKMBOICHWVhuHTwgzfg1pjEl2_WzLMUj9ghlk41vEZ8xIBMwOs4aHejcuHgl_ibYPhQ/p.png?size=1600x1200&size_mode=3)
 
