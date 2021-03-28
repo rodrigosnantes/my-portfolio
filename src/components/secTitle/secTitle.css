@@ -1,0 +1,19 @@
+h3 {
+    font-size: 40px;
+    font-weight: 200;
+    margin-bottom: 10px;
+}
+
+.back {
+    color: black;
+}
+
+.white {
+    color: white;
+}
+
+@media screen and (max-width: 550px) {
+    h3 {
+        font-size: 30px;
+    }
+}

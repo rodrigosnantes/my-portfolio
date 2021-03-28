@@ -1,0 +1,37 @@
+.flexContent {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 100%;
+    margin-top: 40px;
+}
+
+.flexContent .box {
+    min-width: 250px;
+    width: 250px;
+    margin: 10px  10px  10px  10px;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.05);
+}
+
+.flexContent .box:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.flexContent .box .iconBx {
+    margin-top: 25px;
+}
+
+.flexContent .box .iconBx img {
+    max-width: 70px;
+    margin-bottom: 25px;
+}
+
+.flexContent .box h2 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+}

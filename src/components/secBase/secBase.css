@@ -1,0 +1,22 @@
+.sec {
+    padding: 100px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec.black {
+    background: black;
+}
+
+.sec .content {
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.mxw800p {
+    max-width: 800px;
+    margin: 0 auto;
+}
